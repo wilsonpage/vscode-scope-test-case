@@ -1,7 +1,9 @@
+### Steps to reproduce
+
 1. `npm install`
 2. `npm run checkjs`
 
-# Issue
+### Issue
 
 Errors on known worker only API `self.skipWaiting()`
 
