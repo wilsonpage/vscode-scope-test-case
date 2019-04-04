@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "lib": [ "webworker"],
+    "lib": ["webworker"],
     "checkJs": true
   },
-  "include": ["worker.js""]
+  "include": ["./worker.js"]
 }
