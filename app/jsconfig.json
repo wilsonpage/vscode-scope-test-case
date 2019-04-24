@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "lib": ["es6", "es7", "webworker", "dom"],
+    "lib": ["es6", "es7", "dom"],
     "checkJs": true
   },
-  "include": ["./app", "./serviceWorker/"]
+  "include": ["./app.js"]
 }

@@ -4,9 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "checkjs": "tsc --project jsconfig.json"
+    "checkjs:app": "tsc --project app/jsconfig.json",
+    "checkjs:serviceWorker": "tsc --project serviceWorker/jsconfig.json"
   },
   "devDependencies": {
+    "types-serviceworker": "^0.0.1",
     "typescript": "^3.4.1"
   }
 }

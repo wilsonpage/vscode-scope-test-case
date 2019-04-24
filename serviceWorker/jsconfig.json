@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["webworker"],
+    "lib": ["es6", "es7", "webworker"],
     "checkJs": true
   },
   "include": ["./worker.js"]

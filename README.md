@@ -1,7 +1,7 @@
 ### Steps to reproduce
 
 1. `npm install`
-2. `npm run checkjs`
+2. `npm run checkjs:serviceWorker`
 
 ### Issue
 
